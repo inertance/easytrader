@@ -55,3 +55,6 @@
 ### 作者其他作品
 * [大数据网络小说推荐系统 - 推书君](https://www.tuishujun.com)
 * [中文独立个人博客导航 - bloghub.fun](https://bloghub.fun)
+
+![image](https://user-images.githubusercontent.com/51230881/180411346-7f91e391-74fe-4848-ba1e-f29db7a64e2e.png)
+
